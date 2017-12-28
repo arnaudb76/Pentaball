@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1514359136 source:d:\documents\education\coding\pentaball\main.cpp
+	<iostream>
+	<fstream>
+	"Point3d.h"
+	"Pentagone.h"
+
+1514359975 source:d:\documents\education\coding\pentaball\src\pentagone.cpp
+	"Pentagone.h"
+
+1514356231 d:\documents\education\coding\pentaball\include\pentagone.h
+	"Point3d.h"
+	<iostream>
+	<math.h>
+
+1514353208 d:\documents\education\coding\pentaball\include\point3d.h
+	<iostream>
+	<math.h>
+
+1514353253 source:d:\documents\education\coding\pentaball\src\point3d.cpp
+	"Point3d.h"
+

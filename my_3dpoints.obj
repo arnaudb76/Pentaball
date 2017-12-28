@@ -1,0 +1,8 @@
+# List of geometric vertices, with (x,y,z[,w]) coordinates, w is optional and defaults to 1.0.
+v 1 2 3
+v -0.54482 6.75537 3
+v 3.50032 9.69422 3
+v 7.54546 6.75537 3
+v 6.00064 2 3
+# Polygonal face element
+f  1  2  3  4  5
